@@ -6,6 +6,8 @@ static void main(String[] args) {
 
      List listforme=[carre,rectangle,cercle]
     listforme.each {it.affichage()
+        println("GIT")
+
     }
 
 }
